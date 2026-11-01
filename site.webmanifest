@@ -1,0 +1,13 @@
+{
+  "name": "ayten.acces — именные аксессуары для волос",
+  "short_name": "ayten.acces",
+  "lang": "ru",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FFF8F6",
+  "theme_color": "#F8C6DF",
+  "icons": [
+    {"src": "img/icon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "img/icon-512.png", "sizes": "512x512", "type": "image/png"}
+  ]
+}
